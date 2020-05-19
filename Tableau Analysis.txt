@@ -1,0 +1,7 @@
+Tableau Analysis
+- The data shows that there are more people riding bikes in June of 2017 than there are in December of 2017
+- The data also shows that the amount of people riding has gone up from 2017 to 2019. 
+- Obviously weather is a factor when it comes to New York City and it is hard to ride a bike in the snow. 
+- As time has gone on there have been stations that have gotten added to the map and will probably be more to come as more people use start using the bikes, 
+- The data also indicates that more men than women ride the Citi bikes, there is not enough data to say why this is a thing. 
+- There are more customers than subsribers which means that the main users of these bikes are tourists. 
